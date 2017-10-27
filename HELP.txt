@@ -1,0 +1,24 @@
+**ACKNOWLEDGEMENT ALL THE WEBSITES THAT HELPED ME IN COMPLETING THIS PROJECT**
+1. W3schools.com
+2. https://www.youtube.com/watch?v=xb8aad4MRx8
+3. https://www.youtube.com/channel/UCXgGY0wkgOzynnHvSEVmE3A
+4. stackoverflow.com
+
+
+***IMPORTANT NOTICE***
+  First of all I am sorry that the pages are not classified in any observable
+order. But there is a pattern. The files with name of type *meetup_(@@@@).php*
+are the webpages. The files with name of type *stylesheet(@).css* are the css
+codes. The files with name which is of none the above types are the php codes.
+Also, there are two files named login_system, here one of them is a php code and
+the other one is the sql code which you would need to import into xampp with
+database name as login_system.
+
+  The first page of the website is **meetup_home.php** and I have used xampp
+offline server for linking php and sql to the website so please use teh same or
+make the changes accordingly.
+
+    THANK YOU.
+    Naman Gupta
+    CSE
+    11720018
